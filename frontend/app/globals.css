@@ -988,6 +988,12 @@ pre.source-text { white-space: pre-wrap; font-family: var(--mono); font-size: 12
 .demo-notice p { margin: 0; }
 .demo-notice strong { font-weight: 650; }
 
+/* Team credit line at the very top of the home page. */
+.team-credit {
+  margin: 0 0 12px; color: var(--muted); font-size: 0.85rem; letter-spacing: 0.02em;
+}
+.team-credit strong { color: var(--ink); font-weight: 650; }
+
 /* "New here?" at the top of the ask band: leads to the how-to page (app/how). */
 .guide-intro {
   display: flex; align-items: center; gap: 12px; max-width: 880px; margin: 0 0 28px; padding: 12px 16px;

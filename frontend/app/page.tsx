@@ -171,6 +171,9 @@ function Ask() {
     <>
       <title>Ask a question · ALAMKansya</title>
       <section className="hero" aria-labelledby="ask-title">
+        <p className="team-credit">
+          Made by <strong>Group G</strong> &middot; <strong>Oreo Bread</strong>
+        </p>
         {(!health?.llm || health.llm === "offline-template") && (
           <aside className="demo-notice" aria-label="About this demo">
             <Info size={20} strokeWidth={1.75} aria-hidden />
