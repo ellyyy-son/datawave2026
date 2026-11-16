@@ -1,6 +1,6 @@
 # ALAMKansya
 
-*Ang alkansya ng kaalaman.* (The piggy bank of knowledge.)
+Ang alkansya ng kaalaman.
 
 ALAMKansya is an evidence assistant for BPI Strategy & Insights (S&I). Anyone in a business unit can ask a
 question in plain words, in English, Filipino or Taglish, and get a short brief written from the bank's approved
